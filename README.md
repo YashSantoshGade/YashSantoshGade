@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashSantoshGade
 - 👀 I’m interested in Artificial Intelligence and Game development 
-- 🌱 I’m currently learnins Libraries in Python for AI
+- 🌱 I’m currently learning Libraries in Python related with AI
 - 💞️ I’m looking up for internships
 - 📫 Reach me on Mail:-yashsantoshgade8623@gmail.com
 - 😄 Pronouns: Engineer
